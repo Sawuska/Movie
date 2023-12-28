@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93608445-BE2E-453F-9981-3D6D8B970B5A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D40F0FDF-175F-4A66-A76C-AF6805C95025"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movies/Core/MovieRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "changeWatchlistValue(for:isOnWatchlist:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D40F0FDF-175F-4A66-A76C-AF6805C95025 - 4a5e0f8bb2f29c41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Movies.StoredMovie&gt;, Swift.Error&gt;) -&gt; () in Movies.MovieRepository.changeWatchlistValue(for: Swift.Int, isOnWatchlist: Swift.Bool) -&gt; ()"
+                  moduleName = "Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandra/projects/Movies_local/Movies/Core/MovieRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D40F0FDF-175F-4A66-A76C-AF6805C95025 - 4a5e0f8bb2f29c41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Movies.StoredMovie&gt;, Swift.Error&gt;) -&gt; () in Movies.MovieRepository.changeWatchlistValue(for: Swift.Int, isOnWatchlist: Swift.Bool) -&gt; ()"
+                  moduleName = "Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandra/projects/Movies_local/Movies/Core/MovieRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "997">
+               </Location>
+               <Location
+                  uuid = "D40F0FDF-175F-4A66-A76C-AF6805C95025 - 4a5e0f8bb2f29c41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Movies.StoredMovie&gt;, Swift.Error&gt;) -&gt; () in Movies.MovieRepository.changeWatchlistValue(for: Swift.Int, isOnWatchlist: Swift.Bool) -&gt; ()"
+                  moduleName = "Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandra/projects/Movies_local/Movies/Core/MovieRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "459">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
